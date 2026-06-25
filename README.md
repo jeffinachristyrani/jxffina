@@ -1,19 +1,4 @@
-## Hi there! I'm Jeffina 👋
 
-🎓 Computer Science student<br/>
-💻 Software Developer in progress<br/>
-🤖 Exploring AI/ML, backend development, and creative technology<br/>
-
-I love building:
-✨ Interactive applications  
-🧠 AI-powered systems  
-🌐 Software solutions  
-🎨 Technology-driven experiences  
-
-Tech I work with:
-Java | Python | Spring Boot | SQL | C | C++ | Data structures
-
-Currently learning, experimenting, and turning ideas into projects 🚀
 # 💫 About Me:
 ## Hi there! I'm Jeffina 👋<br><br>🎓 Computer Science student  <br>💻 Software Developer in progress  <br>🤖 Exploring AI/ML, backend development, and creative technology  <br><br>I love building:<br>✨ Interactive applications  <br>🧠 AI-powered systems  <br>🌐 Software solutions  <br>🎨 Technology-driven experiences  <br><br>Tech I work with:<br>Java | Python | Spring Boot | SQL | TensorFlow | Git<br><br>Currently learning, experimenting, and turning ideas into projects 🚀
 
